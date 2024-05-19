@@ -15,7 +15,7 @@
 ## Content
 
 App built using Vite framework.
-![vite](public/vite.svg)![react](src\assets\react.svg)![typescript](public/typescript.svg)![vitest](public/vitest.svg)
+![vite](public/vite.svg)![react](public/react.svg)![typescript](public/typescript.svg)![vitest](public/vitest.svg)
 
 ### Init vite project
 
