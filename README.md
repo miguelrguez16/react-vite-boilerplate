@@ -15,6 +15,7 @@
 ## Content
 
 App built using Vite framework.
+![vite](public/vite.svg)![react](src\assets\react.svg)![typescript](public/typescript.svg)![vitest](public/vitest.svg)
 
 ### Init vite project
 
@@ -61,3 +62,5 @@ Global Settings for all users:
 [What is SWV](https://swc.rs/)
 [JEST AND VITE](https://jestjs.io/docs/getting-started)
 [VITEST](https://vitest.dev/guide/)
+
+
